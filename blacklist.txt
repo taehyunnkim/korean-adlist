@@ -28,3 +28,4 @@ videost.nmv.naver.com
 vts.rmcnmv.naver.com
 wrd.naver.com
 tivan.naver.com
+g.tivan.naver.com
