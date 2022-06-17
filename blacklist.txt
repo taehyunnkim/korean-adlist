@@ -29,3 +29,4 @@ vts.rmcnmv.naver.com
 wrd.naver.com
 tivan.naver.com
 g.tivan.naver.com
+siape.veta.naver.com
